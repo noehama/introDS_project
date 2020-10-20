@@ -1,0 +1,443 @@
+,Postalcode,Name,Huoneet,Keskivuokra - ARA-vuokra,Keskivuokra - Vapaarah. vanhat,Keskivuokra - Vapaarah. uudet,Kuukausivuokra - ARA-vuokra,Kuukausivuokra - Vapaarah. vanhat,Kuukausivuokra - Vapaarah. uudet,duration-w,duration-t,duration-d,duration-b
+0,100,Helsinki Keskusta - Etu-Töölö,1h,20.9,25.5,27.9,577.0,721.0,778.0,1 hour 0 mins,32 mins,15 mins,20 mins
+1,100,Helsinki Keskusta - Etu-Töölö,2h,17.5,18.2,20.7,933.0,913.0,966.0,1 hour 0 mins,32 mins,15 mins,20 mins
+2,100,Helsinki Keskusta - Etu-Töölö,3h+,14.7,14.0,18.9,982.0,1238.0,1543.0,1 hour 0 mins,32 mins,15 mins,20 mins
+3,120,Punavuori,1h,,26.2,28.9,,744.0,781.0,1 hour 12 mins,35 mins,19 mins,27 mins
+4,120,Punavuori,2h,,20.7,21.8,,969.0,1023.0,1 hour 12 mins,35 mins,19 mins,27 mins
+5,120,Punavuori,3h+,,14.9,16.5,,1424.0,1085.0,1 hour 12 mins,35 mins,19 mins,27 mins
+6,130,Kaartinkaupunki,1h,,23.0,27.9,,677.0,722.0,1 hour 5 mins,36 mins,16 mins,20 mins
+7,130,Kaartinkaupunki,2h,,18.9,,,966.0,,1 hour 5 mins,36 mins,16 mins,20 mins
+8,130,Kaartinkaupunki,3h+,,20.5,,,1448.0,,1 hour 5 mins,36 mins,16 mins,20 mins
+9,140,Kaivopuisto - Ullanlinna,1h,,24.1,27.5,,738.0,799.0,1 hour 19 mins,45 mins,18 mins,26 mins
+10,140,Kaivopuisto - Ullanlinna,2h,,20.0,21.1,,1028.0,1033.0,1 hour 19 mins,45 mins,18 mins,26 mins
+11,140,Kaivopuisto - Ullanlinna,3h+,,17.0,19.4,,1506.0,1253.0,1 hour 19 mins,45 mins,18 mins,26 mins
+12,150,Eira - Hernesaari,1h,,25.9,29.1,,707.0,779.0,1 hour 21 mins,42 mins,20 mins,29 mins
+13,150,Eira - Hernesaari,2h,,18.7,21.4,,905.0,955.0,1 hour 21 mins,42 mins,20 mins,29 mins
+14,150,Eira - Hernesaari,3h+,,17.0,17.0,,1303.0,1145.0,1 hour 21 mins,42 mins,20 mins,29 mins
+15,160,Katajanokka,1h,24.1,22.6,25.8,805.0,766.0,843.0,1 hour 12 mins,42 mins,17 mins,22 mins
+16,160,Katajanokka,2h,16.2,14.2,21.5,829.0,930.0,1024.0,1 hour 12 mins,42 mins,17 mins,22 mins
+17,160,Katajanokka,3h+,13.7,15.2,,1106.0,1174.0,,1 hour 12 mins,42 mins,17 mins,22 mins
+18,170,Kruununhaka,1h,,23.8,28.4,,695.0,743.0,55 mins,25 mins,13 mins,16 mins
+19,170,Kruununhaka,2h,,18.8,22.0,,924.0,997.0,55 mins,25 mins,13 mins,16 mins
+20,170,Kruununhaka,3h+,,13.3,11.9,,1586.0,797.0,55 mins,25 mins,13 mins,16 mins
+21,180,Kamppi - Ruoholahti,1h,21.2,25.0,28.2,590.0,697.0,725.0,1 hour 18 mins,36 mins,21 mins,24 mins
+22,180,Kamppi - Ruoholahti,2h,16.7,18.2,20.8,870.0,909.0,1005.0,1 hour 18 mins,36 mins,21 mins,24 mins
+23,180,Kamppi - Ruoholahti,3h+,14.4,14.1,14.8,1186.0,1162.0,1115.0,1 hour 18 mins,36 mins,21 mins,24 mins
+24,200,Lauttasaari,1h,,24.0,25.3,,675.0,710.0,2 hours 4 mins,44 mins,27 mins,36 mins
+25,200,Lauttasaari,2h,,18.1,19.8,,840.0,911.0,2 hours 4 mins,44 mins,27 mins,36 mins
+26,200,Lauttasaari,3h+,,17.2,17.7,,1244.0,1175.0,2 hours 4 mins,44 mins,27 mins,36 mins
+27,210,Vattuniemi,1h,,22.4,24.7,,688.0,771.0,1 hour 53 mins,58 mins,27 mins,33 mins
+28,210,Vattuniemi,2h,,17.4,21.9,,878.0,1090.0,1 hour 53 mins,58 mins,27 mins,33 mins
+29,210,Vattuniemi,3h+,13.8,17.6,17.8,1269.0,1330.0,1414.0,1 hour 53 mins,58 mins,27 mins,33 mins
+30,220,Jätkäsaari,1h,18.5,19.9,21.0,618.0,569.0,571.0,1 hour 33 mins,42 mins,24 mins,29 mins
+31,220,Jätkäsaari,2h,16.4,19.4,18.9,827.0,879.0,874.0,1 hour 33 mins,42 mins,24 mins,29 mins
+32,220,Jätkäsaari,3h+,14.8,15.9,15.2,1169.0,1128.0,1085.0,1 hour 33 mins,42 mins,24 mins,29 mins
+33,240,Länsi-Pasila,1h,15.9,23.8,24.1,545.0,706.0,784.0,32 mins,21 mins,12 mins,11 mins
+34,240,Länsi-Pasila,2h,13.3,18.6,17.4,739.0,932.0,852.0,32 mins,21 mins,12 mins,11 mins
+35,240,Länsi-Pasila,3h+,12.7,15.0,,1020.0,1078.0,,32 mins,21 mins,12 mins,11 mins
+36,250,Taka-Töölö,1h,23.8,26.3,29.0,639.0,690.0,738.0,52 mins,32 mins,17 mins,17 mins
+37,250,Taka-Töölö,2h,22.2,18.8,19.7,894.0,848.0,888.0,52 mins,32 mins,17 mins,17 mins
+38,250,Taka-Töölö,3h+,,15.3,14.4,,1032.0,1075.0,52 mins,32 mins,17 mins,17 mins
+39,260,Keski-Töölö,1h,21.0,26.9,27.3,526.0,710.0,705.0,54 mins,26 mins,16 mins,18 mins
+40,260,Keski-Töölö,2h,,18.1,19.5,,833.0,922.0,54 mins,26 mins,16 mins,18 mins
+41,260,Keski-Töölö,3h+,,10.7,,,733.0,,54 mins,26 mins,16 mins,18 mins
+42,270,Pohjois-Meilahti,1h,21.3,27.0,30.4,635.0,652.0,696.0,50 mins,30 mins,13 mins,15 mins
+43,270,Pohjois-Meilahti,2h,15.7,18.4,19.5,764.0,795.0,841.0,50 mins,30 mins,13 mins,15 mins
+44,270,Pohjois-Meilahti,3h+,13.3,14.8,14.1,1127.0,1039.0,1076.0,50 mins,30 mins,13 mins,15 mins
+45,280,Ruskeasuo,1h,16.9,21.2,22.5,325.0,625.0,626.0,51 mins,33 mins,12 mins,16 mins
+46,280,Ruskeasuo,2h,13.6,16.2,18.7,636.0,728.0,805.0,51 mins,33 mins,12 mins,16 mins
+47,280,Ruskeasuo,3h+,11.9,8.9,,730.0,575.0,,51 mins,33 mins,12 mins,16 mins
+48,300,Pikku Huopalahti,1h,19.5,20.6,22.2,639.0,673.0,711.0,1 hour 1 min,32 mins,12 mins,20 mins
+49,300,Pikku Huopalahti,2h,15.3,17.2,20.2,786.0,824.0,970.0,1 hour 1 min,32 mins,12 mins,20 mins
+50,300,Pikku Huopalahti,3h+,13.8,14.1,9.7,1111.0,1148.0,805.0,1 hour 1 min,32 mins,12 mins,20 mins
+51,310,Kivihaka,1h,23.0,21.5,24.6,661.0,660.0,732.0,49 mins,Duration not available,10 mins,18 mins
+52,310,Kivihaka,2h,16.9,18.1,15.1,763.0,849.0,696.0,49 mins,Duration not available,10 mins,18 mins
+53,310,Kivihaka,3h+,13.1,,,995.0,,,49 mins,Duration not available,10 mins,18 mins
+54,320,Etelä-Haaga,1h,14.2,24.1,26.4,500.0,654.0,706.0,58 mins,25 mins,13 mins,19 mins
+55,320,Etelä-Haaga,2h,15.6,17.2,18.6,748.0,756.0,834.0,58 mins,25 mins,13 mins,19 mins
+56,320,Etelä-Haaga,3h+,13.8,15.2,,1121.0,990.0,,58 mins,25 mins,13 mins,19 mins
+57,530,Kallio,1h,21.8,23.9,26.4,530.0,682.0,727.0,41 mins,19 mins,11 mins,13 mins
+58,530,Kallio,2h,17.6,17.8,18.5,865.0,835.0,878.0,41 mins,19 mins,11 mins,13 mins
+59,530,Kallio,3h+,16.5,14.5,14.1,1034.0,1061.0,975.0,41 mins,19 mins,11 mins,13 mins
+60,330,Munkkiniemi,1h,28.3,24.4,26.6,693.0,670.0,715.0,1 hour 18 mins,46 mins,19 mins,26 mins
+61,330,Munkkiniemi,2h,16.3,17.4,18.6,763.0,803.0,850.0,1 hour 18 mins,46 mins,19 mins,26 mins
+62,330,Munkkiniemi,3h+,13.6,16.6,16.8,1057.0,1272.0,1195.0,1 hour 18 mins,46 mins,19 mins,26 mins
+63,340,Kuusisaari-Lehtisaari,1h,,24.6,23.6,,707.0,701.0,1 hour 38 mins,57 mins,22 mins,28 mins
+64,340,Kuusisaari-Lehtisaari,2h,,20.1,,,859.0,,1 hour 38 mins,57 mins,22 mins,28 mins
+65,340,Kuusisaari-Lehtisaari,3h+,19.9,,,2317.0,,,1 hour 38 mins,57 mins,22 mins,28 mins
+66,350,Munkkivuori-Niemenmäki,1h,21.1,24.0,25.4,500.0,654.0,669.0,1 hour 12 mins,34 mins,15 mins,23 mins
+67,350,Munkkivuori-Niemenmäki,2h,13.6,17.1,18.8,648.0,813.0,834.0,1 hour 12 mins,34 mins,15 mins,23 mins
+68,350,Munkkivuori-Niemenmäki,3h+,12.5,15.9,14.6,948.0,1200.0,1034.0,1 hour 12 mins,34 mins,15 mins,23 mins
+69,360,Pajamäki,1h,29.7,23.1,26.4,762.0,622.0,699.0,1 hour 29 mins,Duration not available,18 mins,29 mins
+70,360,Pajamäki,2h,21.3,18.5,17.4,914.0,862.0,861.0,1 hour 29 mins,Duration not available,18 mins,29 mins
+71,360,Pajamäki,3h+,18.4,16.7,18.2,1296.0,1027.0,1152.0,1 hour 29 mins,Duration not available,18 mins,29 mins
+72,370,Reimarla,1h,15.5,21.6,23.4,530.0,694.0,735.0,1 hour 38 mins,36 mins,19 mins,30 mins
+73,370,Reimarla,2h,13.5,17.7,17.5,729.0,888.0,886.0,1 hour 38 mins,36 mins,19 mins,30 mins
+74,370,Reimarla,3h+,13.5,15.0,16.8,1160.0,1160.0,1124.0,1 hour 38 mins,36 mins,19 mins,30 mins
+75,380,Pitäjänmäen teollisuusalue,1h,15.6,18.6,22.0,576.0,707.0,814.0,1 hour 19 mins,35 mins,15 mins,26 mins
+76,380,Pitäjänmäen teollisuusalue,2h,13.7,19.6,22.1,685.0,934.0,1030.0,1 hour 19 mins,35 mins,15 mins,26 mins
+77,380,Pitäjänmäen teollisuusalue,3h+,13.1,14.6,15.9,1047.0,1220.0,1050.0,1 hour 19 mins,35 mins,15 mins,26 mins
+78,540,Kalasatama,1h,18.0,26.4,22.2,522.0,699.0,644.0,39 mins,22 mins,9 mins,14 mins
+79,540,Kalasatama,2h,18.0,17.0,18.9,815.0,839.0,920.0,39 mins,22 mins,9 mins,14 mins
+80,540,Kalasatama,3h+,15.8,17.6,15.3,1093.0,1562.0,1240.0,39 mins,22 mins,9 mins,14 mins
+81,390,Konala,1h,16.1,22.9,24.2,601.0,654.0,673.0,1 hour 53 mins,53 mins,17 mins,35 mins
+82,390,Konala,2h,14.9,17.2,18.0,752.0,814.0,852.0,1 hour 53 mins,53 mins,17 mins,35 mins
+83,390,Konala,3h+,11.9,16.9,17.4,924.0,1235.0,1169.0,1 hour 53 mins,53 mins,17 mins,35 mins
+84,400,Pohjois-Haaga,1h,20.1,24.4,25.0,565.0,637.0,645.0,1 hour 11 mins,21 mins,16 mins,23 mins
+85,400,Pohjois-Haaga,2h,13.4,16.3,15.9,689.0,741.0,749.0,1 hour 11 mins,21 mins,16 mins,23 mins
+86,400,Pohjois-Haaga,3h+,12.9,13.3,15.2,926.0,899.0,1007.0,1 hour 11 mins,21 mins,16 mins,23 mins
+87,410,Malminkartano,1h,13.2,20.1,20.2,474.0,653.0,621.0,2 hours 1 min,47 mins,21 mins,37 mins
+88,410,Malminkartano,2h,12.9,16.0,17.6,670.0,802.0,849.0,2 hours 1 min,47 mins,21 mins,37 mins
+89,410,Malminkartano,3h+,11.6,13.4,14.2,911.0,1035.0,1073.0,2 hours 1 min,47 mins,21 mins,37 mins
+90,550,Vallila,1h,15.9,19.8,23.9,370.0,612.0,688.0,12 mins,12 mins,7 mins,4 mins
+91,550,Vallila,2h,12.9,16.4,18.2,553.0,791.0,834.0,12 mins,12 mins,7 mins,4 mins
+92,550,Vallila,3h+,12.6,15.0,,962.0,1079.0,,12 mins,12 mins,7 mins,4 mins
+93,420,Kannelmäki,1h,17.2,20.9,22.8,538.0,607.0,646.0,1 hour 48 mins,43 mins,20 mins,35 mins
+94,420,Kannelmäki,2h,13.8,15.2,16.0,756.0,751.0,788.0,1 hour 48 mins,43 mins,20 mins,35 mins
+95,420,Kannelmäki,3h+,13.0,14.1,16.0,994.0,1034.0,1134.0,1 hour 48 mins,43 mins,20 mins,35 mins
+96,430,Maununneva,1h,12.6,19.7,22.4,377.0,644.0,721.0,1 hour 53 mins,48 mins,21 mins,36 mins
+97,430,Maununneva,2h,11.4,17.4,16.8,745.0,760.0,797.0,1 hour 53 mins,48 mins,21 mins,36 mins
+98,430,Maununneva,3h+,12.5,14.4,14.6,895.0,1095.0,1079.0,1 hour 53 mins,48 mins,21 mins,36 mins
+99,440,Lassila,1h,14.3,22.0,23.5,434.0,680.0,676.0,1 hour 22 mins,27 mins,16 mins,26 mins
+100,440,Lassila,2h,15.7,17.2,17.0,801.0,788.0,818.0,1 hour 22 mins,27 mins,16 mins,26 mins
+101,440,Lassila,3h+,11.9,13.2,14.8,927.0,1072.0,1109.0,1 hour 22 mins,27 mins,16 mins,26 mins
+102,500,Sörnäinen,1h,23.4,24.8,28.2,574.0,664.0,723.0,31 mins,16 mins,11 mins,10 mins
+103,500,Sörnäinen,2h,21.1,18.4,18.6,987.0,794.0,875.0,31 mins,16 mins,11 mins,10 mins
+104,500,Sörnäinen,3h+,16.2,16.0,,1291.0,1124.0,,31 mins,16 mins,11 mins,10 mins
+105,510,Etu-Vallila - Alppila,1h,16.6,24.3,27.4,560.0,658.0,721.0,28 mins,19 mins,12 mins,10 mins
+106,510,Etu-Vallila - Alppila,2h,16.2,17.2,19.5,803.0,766.0,843.0,28 mins,19 mins,12 mins,10 mins
+107,510,Etu-Vallila - Alppila,3h+,14.9,16.8,10.4,1071.0,1151.0,733.0,28 mins,19 mins,12 mins,10 mins
+108,520,Itä-Pasila,1h,16.7,23.8,28.9,495.0,655.0,719.0,19 mins,19 mins,12 mins,5 mins
+109,520,Itä-Pasila,2h,14.8,16.8,17.9,806.0,745.0,837.0,19 mins,19 mins,12 mins,5 mins
+110,520,Itä-Pasila,3h+,11.5,14.7,14.5,1009.0,1131.0,919.0,19 mins,19 mins,12 mins,5 mins
+111,560,Toukola-Vanhakaupunki,1h,16.3,21.3,22.0,481.0,607.0,622.0,11 mins,7 mins,4 mins,4 mins
+112,560,Toukola-Vanhakaupunki,2h,15.0,17.8,18.9,716.0,825.0,898.0,11 mins,7 mins,4 mins,4 mins
+113,560,Toukola-Vanhakaupunki,3h+,13.1,16.6,18.6,1090.0,1197.0,1290.0,11 mins,7 mins,4 mins,4 mins
+114,570,Kulosaari,1h,,24.4,24.5,,705.0,723.0,49 mins,33 mins,11 mins,15 mins
+115,570,Kulosaari,2h,,19.5,21.0,,864.0,980.0,49 mins,33 mins,11 mins,15 mins
+116,570,Kulosaari,3h+,,16.6,,,1272.0,,49 mins,33 mins,11 mins,15 mins
+117,580,Verkkosaari,1h,17.3,18.3,19.4,503.0,551.0,607.0,22 mins,13 mins,5 mins,7 mins
+118,580,Verkkosaari,2h,15.3,18.5,18.5,690.0,835.0,830.0,22 mins,13 mins,5 mins,7 mins
+119,580,Verkkosaari,3h+,14.2,16.9,13.3,1204.0,1290.0,954.0,22 mins,13 mins,5 mins,7 mins
+120,590,Kaitalahti,1h,,19.8,27.2,,662.0,807.0,1 hour 58 mins,53 mins,19 mins,36 mins
+121,590,Kaitalahti,2h,18.9,16.2,20.4,899.0,739.0,901.0,1 hour 58 mins,53 mins,19 mins,36 mins
+122,590,Kaitalahti,3h+,,14.6,16.9,,1123.0,1248.0,1 hour 58 mins,53 mins,19 mins,36 mins
+123,600,Koskela-Helsinki,1h,15.9,16.8,20.0,395.0,536.0,618.0,27 mins,20 mins,6 mins,10 mins
+124,600,Koskela-Helsinki,2h,11.6,14.2,15.3,515.0,734.0,895.0,27 mins,20 mins,6 mins,10 mins
+125,600,Koskela-Helsinki,3h+,11.3,11.5,,810.0,845.0,,27 mins,20 mins,6 mins,10 mins
+126,610,Käpylä,1h,19.0,17.1,19.0,618.0,560.0,582.0,17 mins,9 mins,5 mins,5 mins
+127,610,Käpylä,2h,13.4,15.2,17.3,683.0,728.0,776.0,17 mins,9 mins,5 mins,5 mins
+128,610,Käpylä,3h+,12.2,13.6,11.8,986.0,914.0,797.0,17 mins,9 mins,5 mins,5 mins
+129,620,Metsälä-Etelä-Oulunkylä,1h,12.7,20.5,21.1,417.0,615.0,611.0,44 mins,18 mins,11 mins,14 mins
+130,620,Metsälä-Etelä-Oulunkylä,2h,12.6,16.3,16.9,662.0,705.0,816.0,44 mins,18 mins,11 mins,14 mins
+131,620,Metsälä-Etelä-Oulunkylä,3h+,,13.1,15.0,,990.0,843.0,44 mins,18 mins,11 mins,14 mins
+132,840,Laajasalo,1h,16.6,20.9,22.1,550.0,605.0,639.0,1 hour 46 mins,47 mins,17 mins,31 mins
+133,840,Laajasalo,2h,17.0,16.1,16.3,805.0,759.0,783.0,1 hour 46 mins,47 mins,17 mins,31 mins
+134,840,Laajasalo,3h+,13.7,14.6,12.9,1156.0,1147.0,1048.0,1 hour 46 mins,47 mins,17 mins,31 mins
+135,630,Maunula-Suursuo,1h,12.6,19.6,22.9,407.0,556.0,607.0,58 mins,32 mins,15 mins,19 mins
+136,630,Maunula-Suursuo,2h,11.8,14.4,15.0,600.0,701.0,715.0,58 mins,32 mins,15 mins,19 mins
+137,630,Maunula-Suursuo,3h+,11.6,13.0,12.0,882.0,893.0,949.0,58 mins,32 mins,15 mins,19 mins
+138,640,Oulunkylä-Patola,1h,16.0,20.5,21.5,473.0,607.0,656.0,55 mins,25 mins,14 mins,17 mins
+139,640,Oulunkylä-Patola,2h,11.7,15.1,16.8,569.0,782.0,839.0,55 mins,25 mins,14 mins,17 mins
+140,640,Oulunkylä-Patola,3h+,12.3,11.8,12.2,952.0,1027.0,944.0,55 mins,25 mins,14 mins,17 mins
+141,650,Veräjämäki,1h,14.2,16.7,,413.0,608.0,,38 mins,26 mins,9 mins,12 mins
+142,650,Veräjämäki,2h,16.0,14.5,16.5,791.0,758.0,819.0,38 mins,26 mins,9 mins,12 mins
+143,650,Veräjämäki,3h+,13.5,13.4,15.7,1030.0,1115.0,1155.0,38 mins,26 mins,9 mins,12 mins
+144,660,Länsi-Pakila,1h,,16.9,21.2,,569.0,609.0,1 hour 20 mins,39 mins,11 mins,27 mins
+145,660,Länsi-Pakila,2h,,14.9,15.2,,762.0,784.0,1 hour 20 mins,39 mins,11 mins,27 mins
+146,660,Länsi-Pakila,3h+,,11.8,11.8,,982.0,1017.0,1 hour 20 mins,39 mins,11 mins,27 mins
+147,850,Jollas,1h,,20.1,32.4,,509.0,517.0,2 hours 17 mins,57 mins,22 mins,38 mins
+148,850,Jollas,2h,13.9,16.9,19.0,753.0,907.0,1033.0,2 hours 17 mins,57 mins,22 mins,38 mins
+149,850,Jollas,3h+,12.8,15.8,15.9,1092.0,1248.0,1564.0,2 hours 17 mins,57 mins,22 mins,38 mins
+150,670,Paloheinä,2h,,10.7,,,581.0,,1 hour 43 mins,52 mins,15 mins,33 mins
+151,670,Paloheinä,3h+,12.6,13.2,,1162.0,1147.0,,1 hour 43 mins,52 mins,15 mins,33 mins
+152,680,Itä-Pakila,1h,17.0,22.7,20.4,539.0,704.0,575.0,1 hour 7 mins,44 mins,16 mins,20 mins
+153,680,Itä-Pakila,2h,,12.4,10.7,,552.0,513.0,1 hour 7 mins,44 mins,16 mins,20 mins
+154,680,Itä-Pakila,3h+,11.9,9.3,,1074.0,858.0,,1 hour 7 mins,44 mins,16 mins,20 mins
+155,690,Tuomarinkylä-Torppar,1h,,,,,,,1 hour 52 mins,50 mins,17 mins,33 mins
+156,690,Tuomarinkylä-Torppar,2h,13.1,19.4,,742.0,1098.0,,1 hour 52 mins,50 mins,17 mins,33 mins
+157,690,Tuomarinkylä-Torppar,3h+,12.5,12.5,,991.0,1175.0,,1 hour 52 mins,50 mins,17 mins,33 mins
+158,700,Malmi,1h,14.6,21.0,24.1,484.0,631.0,640.0,1 hour 27 mins,36 mins,13 mins,23 mins
+159,700,Malmi,2h,13.9,15.7,17.2,693.0,793.0,869.0,1 hour 27 mins,36 mins,13 mins,23 mins
+160,700,Malmi,3h+,12.0,14.4,15.2,946.0,1127.0,1175.0,1 hour 27 mins,36 mins,13 mins,23 mins
+161,710,Pihlajamäki,1h,16.8,18.5,20.5,577.0,592.0,638.0,55 mins,21 mins,8 mins,16 mins
+162,710,Pihlajamäki,2h,13.3,14.4,15.2,716.0,756.0,811.0,55 mins,21 mins,8 mins,16 mins
+163,710,Pihlajamäki,3h+,12.2,12.8,13.3,961.0,979.0,1042.0,55 mins,21 mins,8 mins,16 mins
+164,720,Pukinmäki-Savela,1h,15.8,21.2,20.7,471.0,656.0,656.0,1 hour 12 mins,33 mins,14 mins,21 mins
+165,720,Pukinmäki-Savela,2h,14.1,14.2,15.3,767.0,725.0,778.0,1 hour 12 mins,33 mins,14 mins,21 mins
+166,720,Pukinmäki-Savela,3h+,12.1,13.7,13.3,928.0,1052.0,979.0,1 hour 12 mins,33 mins,14 mins,21 mins
+167,730,Tapanila,1h,13.5,20.4,22.5,481.0,606.0,677.0,1 hour 47 mins,30 mins,18 mins,29 mins
+168,730,Tapanila,2h,12.4,14.8,16.1,655.0,729.0,766.0,1 hour 47 mins,30 mins,18 mins,29 mins
+169,730,Tapanila,3h+,12.0,13.3,13.2,963.0,1113.0,1067.0,1 hour 47 mins,30 mins,18 mins,29 mins
+170,740,Siltamäki,1h,18.0,17.9,22.2,284.0,571.0,726.0,1 hour 55 mins,34 mins,16 mins,34 mins
+171,740,Siltamäki,2h,12.7,14.4,14.3,667.0,754.0,770.0,1 hour 55 mins,34 mins,16 mins,34 mins
+172,740,Siltamäki,3h+,12.2,12.5,13.9,973.0,1027.0,1176.0,1 hour 55 mins,34 mins,16 mins,34 mins
+173,750,Puistola,1h,13.9,16.1,19.3,487.0,547.0,620.0,2 hours 16 mins,37 mins,14 mins,38 mins
+174,750,Puistola,2h,13.9,14.7,14.3,735.0,771.0,735.0,2 hours 16 mins,37 mins,14 mins,38 mins
+175,750,Puistola,3h+,13.4,13.9,13.5,1047.0,1120.0,946.0,2 hours 16 mins,37 mins,14 mins,38 mins
+176,760,Suurmetsä,1h,13.5,16.9,20.5,455.0,579.0,556.0,2 hours 11 mins,29 mins,15 mins,37 mins
+177,760,Suurmetsä,2h,13.8,12.3,12.3,701.0,695.0,633.0,2 hours 11 mins,29 mins,15 mins,37 mins
+178,760,Suurmetsä,3h+,13.7,13.4,13.6,1192.0,1219.0,1247.0,2 hours 11 mins,29 mins,15 mins,37 mins
+179,770,Jakomäki - Alppikylä,1h,13.6,18.2,19.2,462.0,590.0,612.0,1 hour 58 mins,20 mins,11 mins,35 mins
+180,770,Jakomäki - Alppikylä,2h,13.0,13.3,14.1,670.0,738.0,752.0,1 hour 58 mins,20 mins,11 mins,35 mins
+181,770,Jakomäki - Alppikylä,3h+,11.8,12.3,12.7,914.0,1000.0,1039.0,1 hour 58 mins,20 mins,11 mins,35 mins
+182,780,Tapaninvainio,1h,15.1,19.3,22.8,522.0,630.0,676.0,1 hour 31 mins,30 mins,14 mins,27 mins
+183,780,Tapaninvainio,2h,12.7,14.3,14.8,649.0,732.0,816.0,1 hour 31 mins,30 mins,14 mins,27 mins
+184,780,Tapaninvainio,3h+,11.8,8.6,11.0,881.0,859.0,940.0,1 hour 31 mins,30 mins,14 mins,27 mins
+185,790,Viikki,1h,14.9,20.4,20.1,456.0,614.0,576.0,1 hour 12 mins,22 mins,10 mins,23 mins
+186,790,Viikki,2h,14.2,18.0,18.3,734.0,854.0,899.0,1 hour 12 mins,22 mins,10 mins,23 mins
+187,790,Viikki,3h+,13.1,14.4,14.9,1066.0,1130.0,1169.0,1 hour 12 mins,22 mins,10 mins,23 mins
+188,800,Länsi-Herttoniemi,1h,13.3,21.4,22.8,406.0,608.0,628.0,1 hour 23 mins,35 mins,15 mins,24 mins
+189,800,Länsi-Herttoniemi,2h,12.0,15.6,17.4,611.0,727.0,825.0,1 hour 23 mins,35 mins,15 mins,24 mins
+190,800,Länsi-Herttoniemi,3h+,12.2,11.9,13.7,856.0,865.0,1195.0,1 hour 23 mins,35 mins,15 mins,24 mins
+191,810,Herttoniemi,1h,16.4,20.7,24.0,624.0,615.0,665.0,1 hour 16 mins,33 mins,15 mins,24 mins
+192,810,Herttoniemi,2h,14.3,17.5,20.1,738.0,828.0,950.0,1 hour 16 mins,33 mins,15 mins,24 mins
+193,810,Herttoniemi,3h+,13.2,16.1,16.6,1110.0,1281.0,1174.0,1 hour 16 mins,33 mins,15 mins,24 mins
+194,820,Roihuvuori,1h,20.5,20.6,21.5,552.0,563.0,583.0,1 hour 38 mins,43 mins,17 mins,28 mins
+195,820,Roihuvuori,2h,12.5,15.8,17.2,620.0,756.0,829.0,1 hour 38 mins,43 mins,17 mins,28 mins
+196,820,Roihuvuori,3h+,13.3,14.5,14.6,949.0,1020.0,1040.0,1 hour 38 mins,43 mins,17 mins,28 mins
+197,830,Tammisalo,1h,,24.0,,,691.0,,1 hour 43 mins,52 mins,19 mins,30 mins
+198,830,Tammisalo,2h,,,,,,,1 hour 43 mins,52 mins,19 mins,30 mins
+199,830,Tammisalo,3h+,,15.1,,,1869.0,,1 hour 43 mins,52 mins,19 mins,30 mins
+200,870,Etelä-Laajasalo,1h,14.3,19.1,19.5,487.0,634.0,621.0,1 hour 57 mins,53 mins,19 mins,34 mins
+201,870,Etelä-Laajasalo,2h,12.6,17.2,16.8,656.0,818.0,834.0,1 hour 57 mins,53 mins,19 mins,34 mins
+202,870,Etelä-Laajasalo,3h+,11.6,14.0,14.3,882.0,1099.0,1029.0,1 hour 57 mins,53 mins,19 mins,34 mins
+203,920,Myllypuro,1h,14.1,16.8,21.2,441.0,517.0,628.0,1 hour 41 mins,34 mins,12 mins,29 mins
+204,920,Myllypuro,2h,12.4,15.3,16.1,626.0,772.0,843.0,1 hour 41 mins,34 mins,12 mins,29 mins
+205,920,Myllypuro,3h+,11.8,13.4,13.3,934.0,1077.0,1034.0,1 hour 41 mins,34 mins,12 mins,29 mins
+206,930,Itäkeskus-Marjaniemi,1h,18.3,20.0,19.6,617.0,650.0,684.0,1 hour 58 mins,42 mins,16 mins,34 mins
+207,930,Itäkeskus-Marjaniemi,2h,15.1,15.5,20.4,829.0,826.0,938.0,1 hour 58 mins,42 mins,16 mins,34 mins
+208,930,Itäkeskus-Marjaniemi,3h+,13.2,12.5,14.5,1077.0,1154.0,1080.0,1 hour 58 mins,42 mins,16 mins,34 mins
+209,940,Kontula - Vesala,1h,16.9,19.7,24.2,507.0,597.0,683.0,1 hour 59 mins,40 mins,13 mins,35 mins
+210,940,Kontula - Vesala,2h,12.8,15.3,16.5,679.0,755.0,807.0,1 hour 59 mins,40 mins,13 mins,35 mins
+211,940,Kontula - Vesala,3h+,11.9,14.5,15.3,927.0,1133.0,1198.0,1 hour 59 mins,40 mins,13 mins,35 mins
+212,890,Itäsalmi,3h+,,9.3,,,1525.0,,3 hours 31 mins,1 hour 19 mins,16 mins,1 hour 4 mins
+213,900,Puotinharju,1h,16.7,21.4,22.6,501.0,634.0,644.0,1 hour 51 mins,41 mins,13 mins,32 mins
+214,900,Puotinharju,2h,14.1,16.3,16.9,648.0,767.0,783.0,1 hour 51 mins,41 mins,13 mins,32 mins
+215,900,Puotinharju,3h+,12.6,16.1,15.9,937.0,1224.0,1118.0,1 hour 51 mins,41 mins,13 mins,32 mins
+216,910,Puotila,1h,15.6,20.3,22.1,519.0,620.0,674.0,2 hours 10 mins,40 mins,15 mins,39 mins
+217,910,Puotila,2h,15.1,15.6,16.6,763.0,734.0,826.0,2 hours 10 mins,40 mins,15 mins,39 mins
+218,910,Puotila,3h+,14.6,13.7,16.2,1148.0,1057.0,1098.0,2 hours 10 mins,40 mins,15 mins,39 mins
+219,950,Vartioharju,1h,13.7,22.0,25.2,414.0,715.0,754.0,2 hours 17 mins,47 mins,16 mins,42 mins
+220,950,Vartioharju,2h,15.4,15.7,18.0,745.0,770.0,838.0,2 hours 17 mins,47 mins,16 mins,42 mins
+221,950,Vartioharju,3h+,12.7,15.8,14.8,958.0,1121.0,1132.0,2 hours 17 mins,47 mins,16 mins,42 mins
+222,960,Pohjois-Vuosaari,1h,13.5,20.7,23.1,483.0,576.0,663.0,2 hours 43 mins,50 mins,20 mins,49 mins
+223,960,Pohjois-Vuosaari,2h,12.4,15.4,16.6,663.0,759.0,837.0,2 hours 43 mins,50 mins,20 mins,49 mins
+224,960,Pohjois-Vuosaari,3h+,12.1,14.2,15.1,1057.0,1173.0,1078.0,2 hours 43 mins,50 mins,20 mins,49 mins
+225,970,Mellunmäki,1h,13.4,18.3,19.5,447.0,581.0,634.0,2 hours 22 mins,50 mins,16 mins,42 mins
+226,970,Mellunmäki,2h,12.9,14.7,15.3,660.0,733.0,744.0,2 hours 22 mins,50 mins,16 mins,42 mins
+227,970,Mellunmäki,3h+,11.7,13.6,14.7,943.0,1103.0,1065.0,2 hours 22 mins,50 mins,16 mins,42 mins
+228,980,Etelä-Vuosaari,1h,15.8,20.7,23.1,559.0,670.0,754.0,2 hours 46 mins,44 mins,18 mins,48 mins
+229,980,Etelä-Vuosaari,2h,14.0,16.8,18.6,727.0,844.0,914.0,2 hours 46 mins,44 mins,18 mins,48 mins
+230,980,Etelä-Vuosaari,3h+,13.0,14.3,15.0,1039.0,1141.0,1132.0,2 hours 46 mins,44 mins,18 mins,48 mins
+231,990,Aurinkolahti,1h,14.6,21.6,23.5,532.0,789.0,793.0,2 hours 57 mins,1 hour 12 mins,22 mins,51 mins
+232,990,Aurinkolahti,2h,14.5,19.1,20.5,725.0,949.0,988.0,2 hours 57 mins,1 hour 12 mins,22 mins,51 mins
+233,990,Aurinkolahti,3h+,12.2,17.5,18.3,997.0,1347.0,1427.0,2 hours 57 mins,1 hour 12 mins,22 mins,51 mins
+234,1200,Hakunila,1h,18.9,18.5,20.1,643.0,602.0,637.0,3 hours 25 mins,48 mins,11 mins,1 hour 4 mins
+235,1200,Hakunila,2h,13.8,14.4,15.3,748.0,739.0,773.0,3 hours 25 mins,48 mins,11 mins,1 hour 4 mins
+236,1200,Hakunila,3h+,12.9,13.5,14.5,1046.0,967.0,980.0,3 hours 25 mins,48 mins,11 mins,1 hour 4 mins
+237,1230,Vaarala,1h,19.6,21.0,21.3,637.0,635.0,677.0,2 hours 26 mins,27 mins,14 mins,45 mins
+238,1230,Vaarala,2h,16.4,13.3,,715.0,760.0,,2 hours 26 mins,27 mins,14 mins,45 mins
+239,1230,Vaarala,3h+,11.9,13.5,,1099.0,1264.0,,2 hours 26 mins,27 mins,14 mins,45 mins
+240,1260,Itä-Hakkila,1h,15.0,19.9,,511.0,679.0,,3 hours 12 mins,35 mins,16 mins,58 mins
+241,1260,Itä-Hakkila,2h,12.9,13.5,14.5,707.0,775.0,783.0,3 hours 12 mins,35 mins,16 mins,58 mins
+242,1260,Itä-Hakkila,3h+,12.0,14.7,12.6,967.0,1253.0,1247.0,3 hours 12 mins,35 mins,16 mins,58 mins
+243,1280,Länsimäki,1h,17.4,18.4,18.9,596.0,622.0,625.0,2 hours 21 mins,43 mins,14 mins,43 mins
+244,1280,Länsimäki,2h,14.5,14.8,15.7,789.0,773.0,808.0,2 hours 21 mins,43 mins,14 mins,43 mins
+245,1280,Länsimäki,3h+,13.2,14.3,14.1,1044.0,1141.0,1075.0,2 hours 21 mins,43 mins,14 mins,43 mins
+246,1300,Tikkurila,1h,17.8,21.9,22.1,595.0,679.0,719.0,2 hours 33 mins,53 mins,17 mins,45 mins
+247,1300,Tikkurila,2h,16.7,17.2,18.7,844.0,830.0,868.0,2 hours 33 mins,53 mins,17 mins,45 mins
+248,1300,Tikkurila,3h+,14.4,16.3,16.8,1152.0,1200.0,1182.0,2 hours 33 mins,53 mins,17 mins,45 mins
+249,1340,Leinelä,1h,17.3,20.3,21.3,666.0,716.0,735.0,3 hours 23 mins,46 mins,20 mins,58 mins
+250,1340,Leinelä,2h,16.2,18.3,18.7,778.0,867.0,877.0,3 hours 23 mins,46 mins,20 mins,58 mins
+251,1340,Leinelä,3h+,15.0,16.6,16.5,1086.0,1142.0,1147.0,3 hours 23 mins,46 mins,20 mins,58 mins
+252,1400,Rekola,1h,14.6,21.8,26.4,535.0,670.0,688.0,3 hours 44 mins,38 mins,20 mins,1 hour 2 mins
+253,1400,Rekola,2h,13.5,17.0,19.4,698.0,810.0,804.0,3 hours 44 mins,38 mins,20 mins,1 hour 2 mins
+254,1400,Rekola,3h+,13.2,14.1,15.3,1087.0,1090.0,1133.0,3 hours 44 mins,38 mins,20 mins,1 hour 2 mins
+255,1350,Hiekkaharju,1h,19.7,20.1,21.8,671.0,652.0,685.0,2 hours 53 mins,1 hour 1 min,23 mins,51 mins
+256,1350,Hiekkaharju,2h,14.4,16.3,17.3,797.0,792.0,820.0,2 hours 53 mins,1 hour 1 min,23 mins,51 mins
+257,1350,Hiekkaharju,3h+,14.0,14.9,14.8,1095.0,1148.0,1049.0,2 hours 53 mins,1 hour 1 min,23 mins,51 mins
+258,1360,Koivukylä-Havukoski,1h,17.3,18.4,19.5,592.0,607.0,663.0,3 hours 20 mins,48 mins,17 mins,55 mins
+259,1360,Koivukylä-Havukoski,2h,12.8,13.8,14.1,675.0,741.0,764.0,3 hours 20 mins,48 mins,17 mins,55 mins
+260,1360,Koivukylä-Havukoski,3h+,13.1,12.8,13.3,1020.0,1001.0,987.0,3 hours 20 mins,48 mins,17 mins,55 mins
+261,1370,Jokiniemi,1h,15.2,19.8,22.2,494.0,607.0,627.0,2 hours 51 mins,33 mins,19 mins,48 mins
+262,1370,Jokiniemi,2h,13.4,16.3,17.8,641.0,802.0,816.0,2 hours 51 mins,33 mins,19 mins,48 mins
+263,1370,Jokiniemi,3h+,13.1,14.7,16.1,942.0,1081.0,1258.0,2 hours 51 mins,33 mins,19 mins,48 mins
+264,1380,Kuusikko-Hakkila,2h,13.3,,,781.0,,,2 hours 50 mins,Duration not available,15 mins,50 mins
+265,1380,Kuusikko-Hakkila,3h+,13.6,13.0,,1206.0,1012.0,,2 hours 50 mins,Duration not available,15 mins,50 mins
+266,1390,Ruskeasanta-Ilola,1h,13.5,19.3,22.4,464.0,601.0,682.0,3 hours 2 mins,44 mins,21 mins,53 mins
+267,1390,Ruskeasanta-Ilola,2h,12.9,15.2,,679.0,759.0,,3 hours 2 mins,44 mins,21 mins,53 mins
+268,1390,Ruskeasanta-Ilola,3h+,12.7,14.1,12.5,1068.0,1122.0,1113.0,3 hours 2 mins,44 mins,21 mins,53 mins
+269,1420,Päiväkumpu,2h,12.7,,,690.0,,,3 hours 43 mins,34 mins,18 mins,1 hour 5 mins
+270,1420,Päiväkumpu,3h+,12.7,18.3,,1027.0,1264.0,,3 hours 43 mins,34 mins,18 mins,1 hour 5 mins
+271,1450,Korso,1h,15.4,19.0,22.1,535.0,634.0,672.0,4 hours 12 mins,46 mins,20 mins,1 hour 8 mins
+272,1450,Korso,2h,12.3,15.0,16.3,660.0,794.0,826.0,4 hours 12 mins,46 mins,20 mins,1 hour 8 mins
+273,1450,Korso,3h+,11.8,13.0,13.6,944.0,1077.0,1080.0,4 hours 12 mins,46 mins,20 mins,1 hour 8 mins
+274,1480,Mikkola,1h,15.6,17.0,19.5,553.0,599.0,628.0,4 hours 11 mins,44 mins,15 mins,1 hour 10 mins
+275,1480,Mikkola,2h,12.1,14.0,14.5,691.0,746.0,767.0,4 hours 11 mins,44 mins,15 mins,1 hour 10 mins
+276,1480,Mikkola,3h+,11.8,11.7,13.2,941.0,961.0,961.0,4 hours 11 mins,44 mins,15 mins,1 hour 10 mins
+277,1490,Nikinmäki,1h,,20.6,,,535.0,,4 hours 16 mins,34 mins,16 mins,1 hour 14 mins
+278,1490,Nikinmäki,2h,,,13.8,,,719.0,4 hours 16 mins,34 mins,16 mins,1 hour 14 mins
+279,1490,Nikinmäki,3h+,12.0,13.6,13.4,1069.0,1022.0,1177.0,4 hours 16 mins,34 mins,16 mins,1 hour 14 mins
+280,1650,Vapaala,1h,17.9,19.4,20.6,509.0,606.0,660.0,2 hours 19 mins,58 mins,23 mins,42 mins
+281,1650,Vapaala,2h,14.5,14.6,15.2,729.0,783.0,828.0,2 hours 19 mins,58 mins,23 mins,42 mins
+282,1650,Vapaala,3h+,12.8,13.8,12.3,1179.0,1107.0,1001.0,2 hours 19 mins,58 mins,23 mins,42 mins
+283,1510,Kirkonkylä-Veromäki,1h,16.8,21.9,22.1,694.0,771.0,752.0,2 hours 0 mins,53 mins,17 mins,37 mins
+284,1510,Kirkonkylä-Veromäki,2h,16.2,17.9,17.7,785.0,874.0,840.0,2 hours 0 mins,53 mins,17 mins,37 mins
+285,1510,Kirkonkylä-Veromäki,3h+,14.2,16.0,17.1,1083.0,1216.0,1198.0,2 hours 0 mins,53 mins,17 mins,37 mins
+286,1520,Tammisto,1h,15.8,16.6,17.2,588.0,589.0,639.0,1 hour 56 mins,36 mins,16 mins,34 mins
+287,1520,Tammisto,2h,15.3,16.7,17.1,780.0,812.0,840.0,1 hour 56 mins,36 mins,16 mins,34 mins
+288,1520,Tammisto,3h+,13.8,15.8,17.3,1016.0,1258.0,1346.0,1 hour 56 mins,36 mins,16 mins,34 mins
+289,1600,Myyrmäki,1h,18.6,21.9,23.3,665.0,635.0,669.0,2 hours 15 mins,42 mins,21 mins,40 mins
+290,1600,Myyrmäki,2h,15.9,15.4,16.2,809.0,778.0,829.0,2 hours 15 mins,42 mins,21 mins,40 mins
+291,1600,Myyrmäki,3h+,13.7,14.3,15.0,1122.0,1099.0,1137.0,2 hours 15 mins,42 mins,21 mins,40 mins
+292,1610,Kaivoksela,1h,22.9,22.7,24.1,713.0,674.0,731.0,1 hour 59 mins,40 mins,21 mins,39 mins
+293,1610,Kaivoksela,2h,16.7,16.6,18.0,814.0,778.0,836.0,1 hour 59 mins,40 mins,21 mins,39 mins
+294,1610,Kaivoksela,3h+,14.9,14.9,16.1,1214.0,1067.0,1139.0,1 hour 59 mins,40 mins,21 mins,39 mins
+295,1620,Martinlaakso,1h,18.8,20.3,24.8,626.0,627.0,714.0,2 hours 37 mins,44 mins,20 mins,52 mins
+296,1620,Martinlaakso,2h,15.8,15.7,17.6,894.0,813.0,865.0,2 hours 37 mins,44 mins,20 mins,52 mins
+297,1620,Martinlaakso,3h+,14.1,13.8,16.0,1193.0,1081.0,1166.0,2 hours 37 mins,44 mins,20 mins,52 mins
+298,1630,Hämeenkylä,1h,,,,,,,2 hours 51 mins,1 hour 10 mins,25 mins,53 mins
+299,1630,Hämeenkylä,2h,14.6,,,835.0,,,2 hours 51 mins,1 hour 10 mins,25 mins,53 mins
+300,1630,Hämeenkylä,3h+,13.5,,,1144.0,,,2 hours 51 mins,1 hour 10 mins,25 mins,53 mins
+301,1640,Hämevaara,1h,,22.5,22.5,,698.0,673.0,2 hours 47 mins,1 hour 7 mins,24 mins,51 mins
+302,1640,Hämevaara,2h,14.9,17.1,18.6,748.0,827.0,880.0,2 hours 47 mins,1 hour 7 mins,24 mins,51 mins
+303,1640,Hämevaara,3h+,13.5,15.4,16.9,1074.0,1099.0,1098.0,2 hours 47 mins,1 hour 7 mins,24 mins,51 mins
+304,1660,Varisto,1h,16.9,20.9,,575.0,652.0,,2 hours 41 mins,1 hour 26 mins,25 mins,47 mins
+305,1660,Varisto,2h,14.0,,,803.0,,,2 hours 41 mins,1 hour 26 mins,25 mins,47 mins
+306,1660,Varisto,3h+,13.5,14.1,,1068.0,1119.0,,2 hours 41 mins,1 hour 26 mins,25 mins,47 mins
+307,1670,Vantaanlaakso,1h,,20.6,,,645.0,,2 hours 33 mins,43 mins,19 mins,49 mins
+308,1670,Vantaanlaakso,2h,12.7,13.8,16.9,764.0,696.0,758.0,2 hours 33 mins,43 mins,19 mins,49 mins
+309,1670,Vantaanlaakso,3h+,13.2,,,1176.0,,,2 hours 33 mins,43 mins,19 mins,49 mins
+310,1680,Askisto,2h,13.2,,,703.0,,,3 hours 11 mins,1 hour 12 mins,25 mins,1 hour 1 min
+311,1680,Askisto,3h+,13.9,,,1162.0,,,3 hours 11 mins,1 hour 12 mins,25 mins,1 hour 1 min
+312,1690,Ylästö,1h,14.0,,,634.0,,,2 hours 25 mins,54 mins,22 mins,45 mins
+313,1690,Ylästö,2h,13.1,9.6,,780.0,686.0,,2 hours 25 mins,54 mins,22 mins,45 mins
+314,1690,Ylästö,3h+,12.5,13.0,,1102.0,972.0,,2 hours 25 mins,54 mins,22 mins,45 mins
+315,1700,Kivistö,1h,19.1,21.9,23.7,661.0,666.0,695.0,3 hours 40 mins,1 hour 4 mins,25 mins,1 hour 10 mins
+316,1700,Kivistö,2h,15.3,17.6,18.3,748.0,785.0,824.0,3 hours 40 mins,1 hour 4 mins,25 mins,1 hour 10 mins
+317,1700,Kivistö,3h+,14.2,14.7,16.3,1049.0,1066.0,1076.0,3 hours 40 mins,1 hour 4 mins,25 mins,1 hour 10 mins
+318,1710,Pähkinärinne,1h,20.3,19.6,22.5,705.0,617.0,671.0,2 hours 31 mins,1 hour 10 mins,24 mins,47 mins
+319,1710,Pähkinärinne,2h,13.9,15.2,17.0,693.0,738.0,804.0,2 hours 31 mins,1 hour 10 mins,24 mins,47 mins
+320,1710,Pähkinärinne,3h+,13.3,15.1,15.2,1090.0,1123.0,1048.0,2 hours 31 mins,1 hour 10 mins,24 mins,47 mins
+321,1730,Vantaanpuisto,1h,,17.3,18.4,,636.0,701.0,3 hours 16 mins,1 hour 8 mins,22 mins,1 hour 1 min
+322,1730,Vantaanpuisto,2h,,12.1,14.8,,678.0,806.0,3 hours 16 mins,1 hour 8 mins,22 mins,1 hour 1 min
+323,1730,Vantaanpuisto,3h+,,11.5,8.0,,913.0,1054.0,3 hours 16 mins,1 hour 8 mins,22 mins,1 hour 1 min
+324,1760,Seutula,1h,,,,,,,4 hours 22 mins,1 hour 15 mins,29 mins,1 hour 19 mins
+325,1760,Seutula,2h,14.4,14.4,,709.0,718.0,,4 hours 22 mins,1 hour 15 mins,29 mins,1 hour 19 mins
+326,1760,Seutula,3h+,11.7,,,903.0,,,4 hours 22 mins,1 hour 15 mins,29 mins,1 hour 19 mins
+327,2100,Tapiola,1h,23.9,23.1,23.9,757.0,689.0,744.0,2 hours 12 mins,47 mins,27 mins,37 mins
+328,2100,Tapiola,2h,17.9,18.1,17.0,866.0,851.0,801.0,2 hours 12 mins,47 mins,27 mins,37 mins
+329,2100,Tapiola,3h+,15.7,15.7,15.7,1171.0,1108.0,1161.0,2 hours 12 mins,47 mins,27 mins,37 mins
+330,2110,Otsolahti,1h,25.7,21.2,23.0,677.0,645.0,686.0,2 hours 2 mins,47 mins,24 mins,34 mins
+331,2110,Otsolahti,2h,,15.9,17.1,,747.0,825.0,2 hours 2 mins,47 mins,24 mins,34 mins
+332,2110,Otsolahti,3h+,,16.1,,,1144.0,,2 hours 2 mins,47 mins,24 mins,34 mins
+333,2120,Länsikorkee-Hakaleht,1h,34.9,20.8,22.3,733.0,636.0,665.0,2 hours 22 mins,Duration not available,26 mins,41 mins
+334,2120,Länsikorkee-Hakaleht,2h,,16.0,16.6,,747.0,814.0,2 hours 22 mins,Duration not available,26 mins,41 mins
+335,2120,Länsikorkee-Hakaleht,3h+,20.1,12.5,,1220.0,814.0,,2 hours 22 mins,Duration not available,26 mins,41 mins
+336,2130,Pohjois-Tapiola,1h,23.5,21.4,21.8,640.0,617.0,703.0,2 hours 31 mins,Duration not available,25 mins,41 mins
+337,2130,Pohjois-Tapiola,2h,18.4,15.9,15.5,979.0,803.0,727.0,2 hours 31 mins,Duration not available,25 mins,41 mins
+338,2130,Pohjois-Tapiola,3h+,19.0,14.4,,1240.0,1217.0,,2 hours 31 mins,Duration not available,25 mins,41 mins
+339,2140,Laajalahti-Friisinmäki,1h,24.5,18.9,19.4,741.0,635.0,654.0,2 hours 17 mins,58 mins,20 mins,37 mins
+340,2140,Laajalahti-Friisinmäki,2h,17.2,,,925.0,,,2 hours 17 mins,58 mins,20 mins,37 mins
+341,2140,Laajalahti-Friisinmäki,3h+,15.1,12.2,,1245.0,1135.0,,2 hours 17 mins,58 mins,20 mins,37 mins
+342,2150,Otaniemi,1h,15.5,19.5,18.0,415.0,453.0,420.0,2 hours 3 mins,42 mins,25 mins,42 mins
+343,2150,Otaniemi,2h,12.4,13.2,13.9,542.0,552.0,595.0,2 hours 3 mins,42 mins,25 mins,42 mins
+344,2150,Otaniemi,3h+,12.1,13.8,12.6,771.0,957.0,742.0,2 hours 3 mins,42 mins,25 mins,42 mins
+345,2660,Lintuvaara,1h,16.8,24.5,19.7,618.0,691.0,613.0,2 hours 10 mins,1 hour 11 mins,20 mins,39 mins
+346,2660,Lintuvaara,2h,13.3,16.0,,606.0,878.0,,2 hours 10 mins,1 hour 11 mins,20 mins,39 mins
+347,2660,Lintuvaara,3h+,14.2,14.3,12.4,1191.0,1232.0,1135.0,2 hours 10 mins,1 hour 11 mins,20 mins,39 mins
+348,2160,Westend,1h,,25.9,,,669.0,,2 hours 35 mins,1 hour 5 mins,28 mins,43 mins
+349,2160,Westend,2h,,17.1,16.0,,998.0,957.0,2 hours 35 mins,1 hour 5 mins,28 mins,43 mins
+350,2160,Westend,3h+,,12.9,,,1227.0,,2 hours 35 mins,1 hour 5 mins,28 mins,43 mins
+351,2170,Haukilahti,1h,15.4,23.2,23.5,523.0,699.0,677.0,2 hours 49 mins,58 mins,27 mins,48 mins
+352,2170,Haukilahti,2h,13.2,17.1,16.4,755.0,893.0,838.0,2 hours 49 mins,58 mins,27 mins,48 mins
+353,2170,Haukilahti,3h+,13.6,15.7,,1157.0,1206.0,,2 hours 49 mins,58 mins,27 mins,48 mins
+354,2230,Matinkylä,1h,16.1,20.5,22.4,508.0,669.0,712.0,3 hours 13 mins,59 mins,28 mins,56 mins
+355,2230,Matinkylä,2h,14.6,16.7,17.0,747.0,832.0,829.0,3 hours 13 mins,59 mins,28 mins,56 mins
+356,2230,Matinkylä,3h+,13.2,14.3,15.6,1023.0,1134.0,1158.0,3 hours 13 mins,59 mins,28 mins,56 mins
+357,2180,Mankkaa,1h,,26.4,24.3,,680.0,630.0,2 hours 46 mins,53 mins,23 mins,47 mins
+358,2180,Mankkaa,2h,13.5,,15.0,716.0,,847.0,2 hours 46 mins,53 mins,23 mins,47 mins
+359,2180,Mankkaa,3h+,13.0,13.9,,1116.0,1391.0,,2 hours 46 mins,53 mins,23 mins,47 mins
+360,2680,Uusmäki,1h,16.7,20.3,20.2,587.0,694.0,732.0,2 hours 1 min,1 hour 9 mins,21 mins,36 mins
+361,2680,Uusmäki,2h,14.7,17.5,19.1,673.0,836.0,932.0,2 hours 1 min,1 hour 9 mins,21 mins,36 mins
+362,2680,Uusmäki,3h+,,17.7,15.6,,1233.0,1131.0,2 hours 1 min,1 hour 9 mins,21 mins,36 mins
+363,2200,Niittykumpu,1h,18.1,23.6,24.2,570.0,729.0,784.0,2 hours 53 mins,53 mins,24 mins,51 mins
+364,2200,Niittykumpu,2h,15.4,18.5,19.9,732.0,871.0,941.0,2 hours 53 mins,53 mins,24 mins,51 mins
+365,2200,Niittykumpu,3h+,13.8,16.1,17.5,897.0,1244.0,1217.0,2 hours 53 mins,53 mins,24 mins,51 mins
+366,2210,Olari-Kuitinmäki,1h,15.5,19.0,21.5,503.0,603.0,663.0,3 hours 30 mins,59 mins,29 mins,1 hour 5 mins
+367,2210,Olari-Kuitinmäki,2h,13.3,14.8,16.1,699.0,740.0,801.0,3 hours 30 mins,59 mins,29 mins,1 hour 5 mins
+368,2210,Olari-Kuitinmäki,3h+,12.8,12.0,13.7,1028.0,958.0,1041.0,3 hours 30 mins,59 mins,29 mins,1 hour 5 mins
+369,2240,Friisilä,1h,,,,,,,3 hours 25 mins,1 hour 1 min,29 mins,1 hour 2 mins
+370,2250,Henttaa,1h,18.5,21.6,22.5,705.0,769.0,716.0,3 hours 16 mins,1 hour 4 mins,24 mins,57 mins
+371,2250,Henttaa,2h,16.7,18.8,19.6,822.0,885.0,884.0,3 hours 16 mins,1 hour 4 mins,24 mins,57 mins
+372,2250,Henttaa,3h+,14.9,16.8,16.3,1037.0,1232.0,1152.0,3 hours 16 mins,1 hour 4 mins,24 mins,57 mins
+373,2260,Iivisniemi,1h,15.9,20.5,22.0,542.0,565.0,612.0,3 hours 52 mins,58 mins,30 mins,1 hour 7 mins
+374,2260,Iivisniemi,2h,12.8,14.5,,654.0,778.0,,3 hours 52 mins,58 mins,30 mins,1 hour 7 mins
+375,2260,Iivisniemi,3h+,12.3,13.2,,1014.0,1106.0,,3 hours 52 mins,58 mins,30 mins,1 hour 7 mins
+376,2280,Puolarmetsä,1h,13.6,22.9,27.6,574.0,624.0,684.0,3 hours 40 mins,1 hour 24 mins,31 mins,1 hour 7 mins
+377,2280,Puolarmetsä,2h,13.0,16.3,17.9,665.0,827.0,794.0,3 hours 40 mins,1 hour 24 mins,31 mins,1 hour 7 mins
+378,2280,Puolarmetsä,3h+,12.2,12.2,15.5,1024.0,1121.0,1126.0,3 hours 40 mins,1 hour 24 mins,31 mins,1 hour 7 mins
+379,2720,Laaksolahti-Lähderanta,1h,,23.0,24.7,,621.0,675.0,3 hours 3 mins,1 hour 7 mins,26 mins,56 mins
+380,2720,Laaksolahti-Lähderanta,2h,,15.1,11.3,,678.0,607.0,3 hours 3 mins,1 hour 7 mins,26 mins,56 mins
+381,2720,Laaksolahti-Lähderanta,3h+,12.8,13.5,,1055.0,988.0,,3 hours 3 mins,1 hour 7 mins,26 mins,56 mins
+382,2270,Suomenoja,2h,13.8,14.8,,733.0,777.0,,3 hours 44 mins,57 mins,30 mins,1 hour 6 mins
+383,2270,Suomenoja,3h+,13.7,,17.5,1161.0,,1710.0,3 hours 44 mins,57 mins,30 mins,1 hour 6 mins
+384,2300,Nöykkiö,2h,13.3,,,786.0,,,3 hours 55 mins,1 hour 5 mins,32 mins,1 hour 7 mins
+385,2300,Nöykkiö,3h+,12.2,,,1024.0,,,3 hours 55 mins,1 hour 5 mins,32 mins,1 hour 7 mins
+386,2320,Kivenlahti,1h,15.4,19.1,20.4,521.0,658.0,669.0,4 hours 14 mins,1 hour 6 mins,32 mins,1 hour 12 mins
+387,2320,Kivenlahti,2h,12.8,15.2,16.1,648.0,824.0,851.0,4 hours 14 mins,1 hour 6 mins,32 mins,1 hour 12 mins
+388,2320,Kivenlahti,3h+,12.2,13.5,14.5,1023.0,1131.0,1206.0,4 hours 14 mins,1 hour 6 mins,32 mins,1 hour 12 mins
+389,2330,Kattilalaakso,1h,16.0,19.6,23.0,536.0,649.0,697.0,4 hours 34 mins,1 hour 14 mins,32 mins,1 hour 21 mins
+390,2330,Kattilalaakso,2h,14.1,16.0,18.6,678.0,757.0,836.0,4 hours 34 mins,1 hour 14 mins,32 mins,1 hour 21 mins
+391,2330,Kattilalaakso,3h+,12.9,14.2,15.6,941.0,1035.0,1108.0,4 hours 34 mins,1 hour 14 mins,32 mins,1 hour 21 mins
+392,2340,Latokaski,2h,13.8,,,831.0,,,4 hours 7 mins,1 hour 18 mins,32 mins,1 hour 15 mins
+393,2340,Latokaski,3h+,12.2,13.6,,1046.0,1146.0,,4 hours 7 mins,1 hour 18 mins,32 mins,1 hour 15 mins
+394,2620,Karakallio,1h,14.5,18.7,21.9,504.0,618.0,732.0,2 hours 41 mins,57 mins,23 mins,50 mins
+395,2620,Karakallio,2h,14.7,16.0,17.0,744.0,801.0,811.0,2 hours 41 mins,57 mins,23 mins,50 mins
+396,2620,Karakallio,3h+,12.5,15.2,16.1,1018.0,1186.0,1317.0,2 hours 41 mins,57 mins,23 mins,50 mins
+397,2360,Espoonlahti,1h,19.0,17.6,19.7,663.0,622.0,706.0,4 hours 6 mins,1 hour 2 mins,32 mins,1 hour 13 mins
+398,2360,Espoonlahti,2h,15.0,15.3,16.0,836.0,850.0,863.0,4 hours 6 mins,1 hour 2 mins,32 mins,1 hour 13 mins
+399,2360,Espoonlahti,3h+,13.3,13.5,14.1,1122.0,1191.0,1178.0,4 hours 6 mins,1 hour 2 mins,32 mins,1 hour 13 mins
+400,2600,Etelä-Leppävaara,1h,16.9,21.9,23.6,596.0,733.0,730.0,1 hour 57 mins,45 mins,19 mins,33 mins
+401,2600,Etelä-Leppävaara,2h,15.0,18.2,18.6,743.0,880.0,853.0,1 hour 57 mins,45 mins,19 mins,33 mins
+402,2600,Etelä-Leppävaara,3h+,14.2,16.3,16.0,1115.0,1183.0,1136.0,1 hour 57 mins,45 mins,19 mins,33 mins
+403,2610,Kilo,1h,14.4,21.7,22.8,491.0,730.0,728.0,2 hours 32 mins,Duration not available,23 mins,48 mins
+404,2610,Kilo,2h,13.5,17.3,18.4,627.0,858.0,903.0,2 hours 32 mins,Duration not available,23 mins,48 mins
+405,2610,Kilo,3h+,12.8,16.8,16.5,1018.0,1256.0,1087.0,2 hours 32 mins,Duration not available,23 mins,48 mins
+406,2630,Nihtisilta,1h,13.8,20.8,18.7,401.0,701.0,537.0,2 hours 43 mins,1 hour 14 mins,21 mins,51 mins
+407,2630,Nihtisilta,2h,12.7,16.6,17.7,643.0,853.0,899.0,2 hours 43 mins,1 hour 14 mins,21 mins,51 mins
+408,2630,Nihtisilta,3h+,11.9,15.7,16.8,922.0,1185.0,1242.0,2 hours 43 mins,1 hour 14 mins,21 mins,51 mins
+409,2650,Pohjois-Leppävaara,1h,14.5,20.8,22.1,452.0,671.0,714.0,1 hour 56 mins,43 mins,19 mins,37 mins
+410,2650,Pohjois-Leppävaara,2h,14.0,15.9,17.2,712.0,810.0,859.0,1 hour 56 mins,43 mins,19 mins,37 mins
+411,2650,Pohjois-Leppävaara,3h+,13.5,15.1,16.4,1010.0,1135.0,1189.0,1 hour 56 mins,43 mins,19 mins,37 mins
+412,2710,Viherlaakso,1h,11.5,20.1,24.3,392.0,610.0,691.0,2 hours 54 mins,1 hour 18 mins,25 mins,54 mins
+413,2710,Viherlaakso,2h,11.6,15.4,15.6,597.0,758.0,799.0,2 hours 54 mins,1 hour 18 mins,25 mins,54 mins
+414,2710,Viherlaakso,3h+,11.2,14.4,15.4,852.0,1096.0,1191.0,2 hours 54 mins,1 hour 18 mins,25 mins,54 mins
+415,2740,Karvasmäki-Kunnarla,1h,15.1,20.6,20.3,588.0,611.0,680.0,4 hours 36 mins,1 hour 22 mins,33 mins,1 hour 27 mins
+416,2740,Karvasmäki-Kunnarla,2h,13.2,14.9,18.1,665.0,793.0,766.0,4 hours 36 mins,1 hour 22 mins,33 mins,1 hour 27 mins
+417,2740,Karvasmäki-Kunnarla,3h+,11.4,11.7,12.6,945.0,998.0,1107.0,4 hours 36 mins,1 hour 22 mins,33 mins,1 hour 27 mins
+418,2750,Sepänkylä,1h,15.8,22.0,21.2,536.0,703.0,645.0,3 hours 14 mins,Duration not available,26 mins,54 mins
+419,2750,Sepänkylä,2h,13.9,15.7,17.6,668.0,811.0,904.0,3 hours 14 mins,Duration not available,26 mins,54 mins
+420,2750,Sepänkylä,3h+,12.2,14.5,14.5,993.0,1155.0,1150.0,3 hours 14 mins,Duration not available,26 mins,54 mins
+421,2760,Espoon Keskus Itäinen,1h,18.0,19.0,20.9,604.0,667.0,671.0,3 hours 52 mins,1 hour 5 mins,25 mins,1 hour 9 mins
+422,2760,Espoon Keskus Itäinen,2h,14.0,16.2,17.1,762.0,812.0,848.0,3 hours 52 mins,1 hour 5 mins,25 mins,1 hour 9 mins
+423,2760,Espoon Keskus Itäinen,3h+,12.6,14.6,15.2,1021.0,1152.0,1192.0,3 hours 52 mins,1 hour 5 mins,25 mins,1 hour 9 mins
+424,2770,Espoon Keskus Läntinen,1h,14.6,20.3,22.7,461.0,660.0,693.0,4 hours 5 mins,59 mins,27 mins,1 hour 20 mins
+425,2770,Espoon Keskus Läntinen,2h,13.4,16.7,18.9,655.0,811.0,890.0,4 hours 5 mins,59 mins,27 mins,1 hour 20 mins
+426,2770,Espoon Keskus Läntinen,3h+,12.2,13.9,16.6,944.0,1056.0,1185.0,4 hours 5 mins,59 mins,27 mins,1 hour 20 mins
+427,2780,Kauklahti,1h,15.5,20.9,22.1,582.0,669.0,697.0,4 hours 53 mins,1 hour 21 mins,28 mins,1 hour 32 mins
+428,2780,Kauklahti,2h,12.8,15.0,15.8,634.0,780.0,802.0,4 hours 53 mins,1 hour 21 mins,28 mins,1 hour 32 mins
+429,2780,Kauklahti,3h+,11.6,13.3,13.6,935.0,1057.0,1064.0,4 hours 53 mins,1 hour 21 mins,28 mins,1 hour 32 mins
+430,2810,Kumpyöli-Karhusuo,2h,,,,,,,4 hours 26 mins,1 hour 28 mins,26 mins,1 hour 22 mins
+431,2810,Kumpyöli-Karhusuo,3h+,12.0,10.3,,955.0,1080.0,,4 hours 26 mins,1 hour 28 mins,26 mins,1 hour 22 mins
+432,2820,Nupuri-Nuuksio,3h+,,,15.8,,,1188.0,5 hours 37 mins,1 hour 24 mins,37 mins,1 hour 43 mins
+433,2920,Niipperi,1h,13.6,20.0,25.5,535.0,647.0,688.0,4 hours 6 mins,1 hour 25 mins,31 mins,1 hour 15 mins
+434,2920,Niipperi,2h,13.1,,,684.0,,,4 hours 6 mins,1 hour 25 mins,31 mins,1 hour 15 mins
+435,2920,Niipperi,3h+,12.0,13.9,,1055.0,1285.0,,4 hours 6 mins,1 hour 25 mins,31 mins,1 hour 15 mins
+436,2940,Lippajärvi,1h,18.5,19.4,22.3,526.0,580.0,616.0,4 hours 27 mins,1 hour 35 mins,32 mins,1 hour 24 mins
+437,2940,Lippajärvi,2h,13.4,15.6,17.4,649.0,726.0,756.0,4 hours 27 mins,1 hour 35 mins,32 mins,1 hour 24 mins
+438,2940,Lippajärvi,3h+,12.5,14.0,14.7,994.0,1125.0,1120.0,4 hours 27 mins,1 hour 35 mins,32 mins,1 hour 24 mins
+439,2970,Kalajärvi,2h,12.1,,,587.0,,,4 hours 53 mins,1 hour 26 mins,35 mins,1 hour 26 mins
+440,2970,Kalajärvi,3h+,11.5,10.8,9.2,902.0,1123.0,970.0,4 hours 53 mins,1 hour 26 mins,35 mins,1 hour 26 mins
+441,2980,Lakisto,1h,,19.0,,,458.0,,5 hours 15 mins,1 hour 35 mins,36 mins,1 hour 31 mins

@@ -1,0 +1,132 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="container">
+
+
+<form method="POST" action="{{ url_for('search_create') }}">
+
+  <div class="row">
+  <div class="col-25">
+  <label for="maxavg">Max. average rent (per square meters):</label>
+  </div>
+  <div class="col-25">
+  <input type="text" id="maxavg" name="maxavg">
+  </div>
+  </div>
+
+  <div class="row">
+  <div class="col-25">
+  <label for="maxmonth">Max. monthly rent:</label>
+  </div>
+  <div class="col-25">
+  <input type="text" id="maxmonth" name="maxmonth">
+    </div>
+  </div>
+
+  <div class="row">
+  <div class="col-25">
+  <p>  Rental type:
+  </p>
+  </div>
+  <div class="col-25">
+  <input type="checkbox" id="ns" name="ns" value="1">
+  <label for="ns">non-subsidised (vapaarahoitteinen)</label><br>
+  <input type="checkbox" id="s" name="s" value="1">
+  <label for="s">subsidised (ARA)</label>
+  </div>
+  </div>
+
+
+    <div class="row">
+  <div class="col-25">  
+  <p>  Rental age:
+  </p>
+  </div>
+  <div class="col-25">
+  <input type="checkbox" id="old" name="old" value="1">
+  <label for="old">old</label><br>
+  <input type="checkbox" id="new" name="new" value="1">
+  <label for="new">new</label>
+    </div>
+  </div>
+
+    <div class="row">
+  <div class="col-25">  
+  <p> Distance (time) from campus by: 
+  </p>
+    </div>
+  <div class="col-25">
+  <input type="checkbox" id="dw" name="dw" value="1">
+  <label for="dw">walking</label><br>
+  <input type="checkbox" id="dt" name="dt" value="1">
+  <label for="dt">transit</label><br>
+  <input type="checkbox" id="db" name="db" value="1">
+  <label for="db">biking</label><br>
+  <input type="checkbox" id="dd" name="dd" value="1">
+  <label for="dd">driving</label>
+    </div>
+  </div>
+
+    <div class="row">
+  <div class="col-25">  
+  <p> Rooms: 
+  </p>
+      </div>
+  <div class="col-25">
+  <input type="checkbox" id="1room" name="1room" value="1">
+  <label for="1room">1</label><br>
+  <input type="checkbox" id="2rooms" name="2rooms" value="2">
+  <label for="2rooms">2</label><br>
+  <input type="checkbox" id="3rooms" name="3rooms" value="3">
+  <label for="3rooms">3+</label>
+      </div>
+  </div>
+
+    <div class="row">
+  <div class="col-25"> 
+  <p> Sort by: 
+  </p>
+        </div>
+  <div class="col-25">
+  <input type="radio" id="average" name="sort" value="0" checked="checked">
+  <label for="average">average rent (per square meters)</label><br>
+  <input type="radio" id="distance" name="sort" value="2">
+  <label for="distance">distance</label><br>
+  <input type="radio" id="monthly" name="sort" value="1">
+  <label for="monthly">monthly rent</label>
+        </div>
+  </div>
+
+<div class="row">
+  <div class="col-25">
+  <p><span style="white-space: pre-wrap;">
+    {{message}}
+    </span>
+  </p>
+   </div>
+   </div>
+
+
+    
+      <div class="col-25">
+  <input type="submit" value="Submit"/>
+  
+  </div>
+
+
+</form>
+
+<div class="col-45">
+  <form action="{{ url_for('index') }}">
+  <input type="submit" value="Back to map"/>
+  </form>
+    </div>
+
+
+<body>
+
+</body>
+</div>
+
+{% endblock %}
